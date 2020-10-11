@@ -33,8 +33,6 @@ body{
   background: #3b72d1;
   margin: auto;
   border-radius: 50%;
-  background-size: 200% 200%;
-  animation: animated-gradient 2s linear infinite;
 }
 
 .pic img{
